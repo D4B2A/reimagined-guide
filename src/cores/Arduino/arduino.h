@@ -1,3 +1,4 @@
+//Analog Pins to Pins
 #define A0 14
 #define A1 15
 #define A2 16
